@@ -1,3 +1,3 @@
-<strong>PokeRANDOMIZER</strong>
+#PokeRandomizer
 
 
