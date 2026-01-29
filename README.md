@@ -1,4 +1,3 @@
- RandomizerPokeAPI
-
+<strong>PokeRANDOMIZER</strong>
 
 
